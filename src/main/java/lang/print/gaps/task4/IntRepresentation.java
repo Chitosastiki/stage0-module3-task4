@@ -11,7 +11,7 @@ public class IntRepresentation {
             int charh = ch2;
             int chara = ch3;
             int charr = ch4;
-            for (int i: int[]{charc, charh, chara, charr}){
+            for (int i: int[] nums{charc, charh, chara, charr}){
             System.out.println(i);
             }
     }
