@@ -11,6 +11,6 @@ public class IntRepresentation {
             int charh = ch2;
             int chara = ch3;
             int charr = ch4;
-            System.out.println(ch1 , ch2 , ch3 , ch4 )
+            System.out.println(ch1 , ch2 , ch3 , ch4 );
     }
 }
