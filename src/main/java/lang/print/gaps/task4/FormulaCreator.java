@@ -5,7 +5,7 @@ public class FormulaCreator {
         
         long a;
         long b;
-        float c = ((9 * a^2 - 5*b + 2 + a +7)*((a + b -4 * a * b) / 2);
+        float c = (9 * a^2 - 5*b + 2 + a +7)*((a + b -4 * a * b) / 2);
    
     }
 }
